@@ -104,7 +104,7 @@ export default function App() {
     },
   ];
 
-  const lineLink = "https://line.me/ti/p/QOQyVhzQr0";
+  const lineLink = "https://line.me/R/ti/p/@tinghao1679";
 
   return (
     <main className="min-h-screen bg-white text-slate-900 selection:bg-sky-900 selection:text-white">
@@ -324,10 +324,10 @@ export default function App() {
                 <div className="aspect-[4/3] overflow-hidden bg-slate-100">
                   <img
                     src={[
-                      "https://images.unsplash.com/photo-1621905251918-48416bd8575a?auto=format&fit=crop&w=900&q=80",
-                      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=900&q=80",
-                      "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=900&q=80",
-                      "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=900&q=80",
+                      "/1.png",
+                      "/2.png",
+                      "/3.png",
+                      "/4.png",
                     ][index]}
                     alt={item.title}
                     className="h-full w-full object-cover transition duration-500 hover:scale-105"
