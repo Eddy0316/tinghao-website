@@ -104,7 +104,7 @@ export default function App() {
     },
   ];
 
-  const lineLink = "https://line.me/ti/p/~0981988796";
+  const lineLink = "https://line.me/R/ti/p/@tinghao1679";
 
   return (
     <main className="min-h-screen bg-white text-slate-900 selection:bg-sky-900 selection:text-white">
@@ -152,8 +152,8 @@ export default function App() {
               新北蘆洲・三重・大台北空調工程到府服務
             </div>
             <h1 className="max-w-3xl text-4xl font-bold tracking-tight text-slate-950 md:text-5xl lg:text-6xl">
-              更像工程公司官網的專業感，
-              <span className="text-sky-800">更重視現場與施工品質。</span>
+              頂好 Don&apos;hot，
+              <span className="text-sky-800">讓您不再熱，一個舒適空間的好選擇。</span>
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600 md:text-xl">
               頂好冷氣電能工程提供冷氣安裝、維修、保養清洗、移機換新與充電樁安裝服務，從需求諮詢、現場評估到完工測試，協助你把空調與用電工程處理得更安心。
@@ -226,9 +226,7 @@ export default function App() {
             <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-600">
               頂好冷氣電能工程以冷氣安裝、維修與保養清洗為主要服務，也提供充電樁安裝與相關用電設備評估。從住家到店面、從汰舊換新到故障檢修，我們重視的是現場條件、施工品質與交付後的實際使用感受。
             </p>
-            <p className="mt-4 max-w-3xl text-lg leading-8 text-slate-600">
-              官網風格上，我們以更紮實、更像工程公司形象的方式呈現：清楚的服務項目、明確的流程、實際可理解的案例，以及可快速轉換的聯絡按鈕。
-            </p>
+            
           </div>
 
           <div className="grid gap-4 sm:grid-cols-2">
@@ -358,7 +356,7 @@ export default function App() {
             <div className="mt-8 space-y-5 text-slate-700">
               <div>
                 <div className="text-sm text-slate-500">地址</div>
-                <div className="mt-1 text-lg font-medium">新北市蘆洲區民權路61巷14號3樓</div>
+                <div className="mt-1 text-lg font-medium">新北市蘆洲區中山一路197巷11號</div>
               </div>
               <div>
                 <div className="text-sm text-slate-500">公司電話</div>
@@ -392,7 +390,7 @@ export default function App() {
 
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
               <a
-                href="https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E8%98%86%E6%B4%B2%E5%8D%80%E6%B0%91%E6%AC%8A%E8%B7%AF61%E5%B7%B714%E8%99%9F3%E6%A8%93"
+                href="https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E8%98%86%E6%B4%B2%E5%8D%80%E4%B8%AD%E5%B1%B1%E4%B8%80%E8%B7%AF197%E5%B7%B711%E8%99%9F"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center justify-center rounded-2xl bg-slate-950 px-6 py-3 text-base font-medium text-white transition hover:-translate-y-0.5 hover:bg-slate-800"
@@ -414,7 +412,7 @@ export default function App() {
             <div className="aspect-[16/12] overflow-hidden rounded-[1.5rem]">
               <iframe
                 title="頂好冷氣電能工程地圖"
-                src="https://www.google.com/maps?q=%E6%96%B0%E5%8C%97%E5%B8%82%E8%98%86%E6%B4%B2%E5%8D%80%E6%B0%91%E6%AC%8A%E8%B7%AF61%E5%B7%B714%E8%99%9F3%E6%A8%93&output=embed"
+                src="https://www.google.com/maps?q=%E6%96%B0%E5%8C%97%E5%B8%82%E8%98%86%E6%B4%B2%E5%8D%80%E4%B8%AD%E5%B1%B1%E4%B8%80%E8%B7%AF197%E5%B7%B711%E8%99%9F&output=embed"
                 className="h-full w-full border-0"
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
