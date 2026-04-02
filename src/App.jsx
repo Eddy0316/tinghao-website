@@ -104,7 +104,7 @@ export default function App() {
     },
   ];
 
-  const lineLink = "https://line.me/R/ti/p/@tinghao1679";
+  const lineLink = "https://line.me/ti/p/QOQyVhzQr0";
 
   return (
     <main className="min-h-screen bg-white text-slate-900 selection:bg-sky-900 selection:text-white">
