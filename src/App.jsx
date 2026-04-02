@@ -131,7 +131,7 @@ export default function App() {
               LINE 聯絡
             </a>
             <a
-              href="tel:0222856465"
+              href="tel:0981988796"
               className="inline-flex items-center justify-center rounded-xl bg-slate-950 px-4 py-2 text-sm font-medium text-white transition hover:-translate-y-0.5 hover:bg-slate-800"
             >
               立即來電
@@ -162,7 +162,7 @@ export default function App() {
 
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
               <a
-                href="tel:0222856465"
+                href="tel:0981988796"
                 className="inline-flex items-center justify-center rounded-2xl bg-slate-950 px-6 py-3 text-base font-semibold text-white shadow-lg shadow-slate-900/10 transition hover:-translate-y-0.5 hover:bg-slate-800"
               >
                 立即來電洽詢
@@ -465,10 +465,10 @@ export default function App() {
 
             <div className="flex flex-col gap-3 sm:flex-row lg:flex-col">
               <a
-                href="tel:0222856465"
+                href="tel:0981988796"
                 className="inline-flex items-center justify-center rounded-2xl bg-white px-6 py-3 text-base font-semibold text-slate-950 transition hover:-translate-y-0.5 hover:bg-slate-100"
               >
-                撥打 02-2285-6465
+                撥打 0981988796
               </a>
               <a
                 href={lineLink}
