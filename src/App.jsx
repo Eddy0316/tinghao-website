@@ -104,7 +104,7 @@ export default function App() {
     },
   ];
 
-  const lineLink = "https://line.me/ti/p/QOQyVhzQr0";
+  const lineLink = "https://line.me/R/ti/p/@tinghao1679";
 
   return (
     <main className="min-h-screen bg-white text-slate-900 selection:bg-sky-900 selection:text-white">
@@ -151,9 +151,10 @@ export default function App() {
             <div className="mb-5 inline-flex items-center rounded-full border border-sky-200 bg-white px-3 py-1 text-sm text-sky-800 shadow-sm">
               新北蘆洲・三重・大台北空調工程到府服務
             </div>
-            <h1 className="max-w-3xl text-4xl font-bold tracking-tight text-slate-950 md:text-5xl lg:text-6xl">
-              頂好 Don&apos;hot，
-              <span className="text-sky-800">讓您不再熱，一個舒適空間的好選擇。</span>
+            <h1 className="max-w-3xl text-4xl font-bold leading-[1.12] tracking-tight text-slate-950 md:text-5xl lg:text-6xl">
+              <span className="block">頂好 Don&apos;hot</span>
+              <span className="block text-sky-800">讓您不再熱</span>
+              <span className="block text-sky-800">舒適空間的最佳選擇</span>
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600 md:text-xl">
               頂好冷氣電能工程提供冷氣安裝、維修、保養清洗、移機換新與充電樁安裝服務，從需求諮詢、現場評估到完工測試，協助你把空調與用電工程處理得更安心。
@@ -190,10 +191,10 @@ export default function App() {
 
           <div className="lg:justify-self-end">
             <div className="overflow-hidden rounded-[2rem] border border-slate-200 bg-white p-3 shadow-2xl shadow-slate-200/70">
-              <div className="aspect-[4/5] overflow-hidden rounded-[1.5rem] bg-slate-100">
+              <div className="aspect-[16/10] overflow-hidden rounded-[1.5rem] bg-slate-100">
                 <img
-                  src="https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=1200&q=80"
-                  alt="冷氣工程施工示意"
+                  src="/cover.png"
+                  alt="頂好冷氣與充電樁安裝服務"
                   className="h-full w-full object-cover"
                 />
               </div>
@@ -224,8 +225,7 @@ export default function App() {
               冷氣工程為主軸，整合電能設備服務
             </h2>
             <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-600">
-              頂好冷氣電能工程位於新北市蘆洲區，提供蘆洲、三重及大台北地區冷氣安裝、冷氣維修、冷氣清洗保養與充電樁安裝服務。
-              無論是住家或店面空調需求，皆提供專業到府評估與施工，是蘆洲與三重地區冷氣工程的可靠選擇。
+              頂好冷氣電能工程以冷氣安裝、維修與保養清洗為主要服務，也提供充電樁安裝與相關用電設備評估。從住家到店面、從汰舊換新到故障檢修，我們重視的是現場條件、施工品質與交付後的實際使用感受。
             </p>
             
           </div>
@@ -311,7 +311,7 @@ export default function App() {
               施工案例
             </h2>
             <p className="mt-5 text-lg leading-8 text-slate-600">
-              先以官網風格示意呈現，之後可再替換成你們的實際施工照片與真實案例內容。
+              可依冷氣安裝、維修清洗與充電樁工程類型，逐步補上真實施工照片與案例說明，提升網站信任感與詢問轉換率。
             </p>
           </div>
 
