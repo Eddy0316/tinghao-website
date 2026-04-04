@@ -92,7 +92,7 @@ export default function App() {
   const reviews = [
     {
       name: "蘆洲住家客戶",
-      text: "預約後回覆很快，施工整齊，冷氣清洗完異味和出風明顯改善！",
+      text: "預約後回覆很快，施工整齊，冷氣清洗完出風明顯改善。",
     },
     {
       name: "三重店面業主",
@@ -100,7 +100,7 @@ export default function App() {
     },
     {
       name: "大台北車主",
-      text: "充電樁安裝評估很仔細，施工前後都講解得很完整，讓人安心。不用再停外面找充電樁了",
+      text: "充電樁安裝評估很仔細，施工前後都講解得很完整，讓人安心。",
     },
   ];
 
@@ -310,9 +310,7 @@ export default function App() {
             <h2 className="mt-4 text-3xl font-bold tracking-tight text-slate-950 md:text-4xl">
               施工案例
             </h2>
-            <p className="mt-5 text-lg leading-8 text-slate-600">
-              
-            </p>
+
           </div>
 
           <div className="mt-10 grid gap-5 md:grid-cols-2 xl:grid-cols-4">
@@ -430,9 +428,7 @@ export default function App() {
             <h2 className="mt-4 text-3xl font-bold tracking-tight text-slate-950 md:text-4xl">
               客戶常見回饋
             </h2>
-            <p className="mt-5 text-lg leading-8 text-slate-600">
-              
-            </p>
+
           </div>
 
           <div className="mt-10 grid gap-5 lg:grid-cols-3">
@@ -458,8 +454,7 @@ export default function App() {
               <h2 className="mt-4 text-3xl font-bold tracking-tight md:text-4xl">
                 有冷氣安裝、維修、保養或充電樁需求？
               </h2>
-              <p className="mt-5 max-w-2xl text-lg leading-8 text-slate-300">
-                歡迎直接來電或加入 LINE 洽詢
+
             </div>
 
             <div className="flex flex-col gap-3 sm:flex-row lg:flex-col">
