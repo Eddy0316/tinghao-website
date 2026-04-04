@@ -92,7 +92,7 @@ export default function App() {
   const reviews = [
     {
       name: "蘆洲住家客戶",
-      text: "預約後回覆很快，施工整齊，冷氣清洗完異味和出風明顯改善。",
+      text: "預約後回覆很快，施工整齊，冷氣清洗完異味和出風明顯改善！",
     },
     {
       name: "三重店面業主",
