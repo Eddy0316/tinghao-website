@@ -92,7 +92,7 @@ export default function App() {
   const reviews = [
     {
       name: "蘆洲住家客戶",
-      text: "預約後回覆很快，施工整齊，冷氣清洗完出風明顯改善。",
+      text: "預約後回覆很快，施工整齊，冷氣清洗完異味和出風明顯改善。",
     },
     {
       name: "三重店面業主",
@@ -100,7 +100,7 @@ export default function App() {
     },
     {
       name: "大台北車主",
-      text: "充電樁安裝評估很仔細，施工前後都講解得很完整，讓人安心。",
+      text: "充電樁安裝評估很仔細，施工前後都講解得很完整，讓人安心。不用再停外面找充電樁了",
     },
   ];
 
@@ -311,7 +311,7 @@ export default function App() {
               施工案例
             </h2>
             <p className="mt-5 text-lg leading-8 text-slate-600">
-              可依冷氣安裝、維修清洗與充電樁工程類型，逐步補上真實施工照片與案例說明，提升網站信任感與詢問轉換率。
+              
             </p>
           </div>
 
@@ -431,7 +431,7 @@ export default function App() {
               客戶常見回饋
             </h2>
             <p className="mt-5 text-lg leading-8 text-slate-600">
-              目前先保留示意版評價區塊，後續可改成真實 Google 評論擷取或精選客戶回饋。
+              
             </p>
           </div>
 
@@ -459,8 +459,7 @@ export default function App() {
                 有冷氣安裝、維修、保養或充電樁需求？
               </h2>
               <p className="mt-5 max-w-2xl text-lg leading-8 text-slate-300">
-                歡迎直接來電或加入 LINE 洽詢，若後續你想再把這版升級成真正可上線的公司官網，也可以直接在這個基礎上繼續擴充。
-              </p>
+                歡迎直接來電或加入 LINE 洽詢
             </div>
 
             <div className="flex flex-col gap-3 sm:flex-row lg:flex-col">
